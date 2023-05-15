@@ -1,7 +1,8 @@
 {
 	"dependencies": {
 		"csv-parse": "^5.3.9",
-		"express": "^4.18.2"
+		"express": "^4.18.2",
+		"hbs": "^4.2.0"
 	},
 	"name": "planets-project",
 	"version": "1.0.0",
